@@ -3,7 +3,7 @@ from os.path import join
 
 from aiogram import Bot, F, Router
 from aiogram.filters import Command, Filter, CommandStart
-from aiogram.types import Message, CallbackQuery
+from aiogram.types import Message
 from temp import change, add_to_startup
 
 router = Router()
