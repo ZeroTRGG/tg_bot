@@ -1,0 +1,1 @@
+This bot have options to become invisible and create .bat file in your pc  startup folder. If you don't need this function you must delete from hendler "from temp import change, add_to_startup", "x = change()" and "add_to_startup()"
